@@ -5,4 +5,4 @@
 
 _1. Open cmd_
 
-_2. Write: node app_
+_2. Write: node app [username]_
