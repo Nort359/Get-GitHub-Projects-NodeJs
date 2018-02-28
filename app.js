@@ -1,6 +1,6 @@
 const github = require('./github');
 
-const userName = process.argv[1];
+const userName = process.argv[2];
 
 github.getRepos(userName, (error, repos) => {
     if (error)
